@@ -10,7 +10,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h3 align="center">Tech Stack</h3>
 
@@ -48,7 +48,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h3 align="center">LinkedIn Profile</h3>
 
@@ -68,7 +68,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h3 align="center">Trophies</h3>
 
@@ -104,9 +104,33 @@
 
 ###
 
-<p align="right">Smart India Hackathon 2023 Project :<br>Bharat HydroVisison - An Underwater ROV for Dam Inspection</p>
+<p align="right">Smart India Hackathon 2023 Project :<br>Bharat HydroVisison - An Underwater ROV for Dam Inspection <br> <br> <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
+
+###
+<br clear="both">
 
 ###
 
+<img align="left" height="160" src="https://cdn.discordapp.com/attachments/1182638476152295545/1225790493657399366/logo1.png?ex=6622695b&is=660ff45b&hm=e7cdd7c362e863b8e89773e96fecd4878f3197871946d182e1dfeca9fc7f0a71&"  />
+
+###
+
+<p align="right">Google Solution Challenge 2024 : <br> Memento - A Marketplace for Rural Artisans <br> <br> <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
+
+###
+<br clear="both">
+
+###
+
+<img align="left" height="160" src="https://cdn.discordapp.com/attachments/1182638476152295545/1225820920229396501/eyeicon3.png?ex=662285b2&is=661010b2&hm=2c0799c8fa246ecac461d9a3ab5c3becc87fbdb10ade2b575656907209d15536&"  />
+
+###
+
+<p align="right"> EyeTalk - An Assistive Technology for ALS and Paralyzed Patients <br> <br> <a href='https://github.com/Vishaal19fl/eyetalk-website'> <img width="7" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
+
+###
 
 
