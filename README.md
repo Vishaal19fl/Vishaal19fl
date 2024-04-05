@@ -104,7 +104,7 @@
 
 ###
 
-<p align="right">Smart India Hackathon 2023 Project :<br>Bharat HydroVisison - An Underwater ROV for Dam Inspection <br> <br> <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
+<p align="right"><strong>Smart India Hackathon 2023 Project :</strong><br>Bharat HydroVision - An Underwater ROV for Dam Inspection <br> <br> <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
 
 ###
@@ -116,7 +116,7 @@
 
 ###
 
-<p align="right">Google Solution Challenge 2024 : <br> Memento - A Marketplace for Rural Artisans <br> <br> <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
+<p align="right"><strong>Google Solution Challenge 2024 :</strong> <br> Memento - A Marketplace for Rural Artisans <br> <br> <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
 
 ###
@@ -128,7 +128,7 @@
 
 ###
 
-<p align="right"> EyeTalk - An Assistive Technology for ALS and Paralyzed Patients <br> <br> <a href='https://github.com/Vishaal19fl/eyetalk-website'> <img width="7" />
+<p align="right"><strong> EyeTalk</strong> - An Assistive Technology for ALS and Paralyzed Patients <br> <br> <a href='https://github.com/Vishaal19fl/eyetalk-website'> <img width="7" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
 
 ###
