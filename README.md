@@ -62,9 +62,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1182638476152295545/1225784025428262982/PicsArt_08-21-05.09.09.jpg?ex=66226355&is=660fee55&hm=805b3183f6857054d808abe19c5e419170e1a3b9bb721557485b6784c5cdfb01&"  />
-</div>
 
 ###
 
