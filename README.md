@@ -53,8 +53,8 @@
 
 ###
 
-
-<h3 align="center">Trophies</h3>
+ <div align="center">
+<h2 align="center">Trophies</h3>
 
 ###
 
@@ -62,7 +62,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=Vishaal19fl&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
+</div> 
 
 ###
 
@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<h3 align="center">Featured Projects</h3>
+<h2 align="center">Featured Projects</h3>
 
 ###
 
