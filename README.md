@@ -64,6 +64,11 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Vishaal19fl/Vishaal19fl/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <h3 align="center">Trophies</h3>
