@@ -1,4 +1,9 @@
-<h2 align="center">Hello👋! I'm Vishaal Krishna and I'm a Web Developer currently pursuing BTech. AIML</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Vishaal+Krishna!;" />
+</h1>
+
+<h3 align="center">A Web Developer currently pursuing BTech. AIML</h3>
+
 
 ###
 
@@ -38,13 +43,13 @@
 
 ###
 
-<div align="center">
+ <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Vishaal19fl/Vishaal19fl/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Vishaal19fl/Vishaal19fl/output/snake.svg" alt="Snake animation" />
   
   <br/><br/><br/>
-</div>
+</div> 
 
 ###
 
