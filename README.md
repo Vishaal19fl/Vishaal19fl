@@ -48,7 +48,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/Vishaal19fl/Vishaal19fl/output/snake.svg" alt="Snake animation" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div> 
 
 ###
