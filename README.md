@@ -86,36 +86,34 @@
 
 ###
 
-<img align="left" height="160" src="https://cdn.discordapp.com/attachments/1182638476152295545/1225789377553109072/7a304073-cde5-4c5d-95e0-4f5730e9266e.jpg?ex=66226851&is=660ff351&hm=35c786e4d7191dc9eee0268b5d9965fab691f0556f11adcf0b345db38a95d772&"  />
+<img align="left" height="160" src="sih23.jpg"  />
 
 ###
 
-<p align="right"><strong>Smart India Hackathon 2023 Project :</strong><br>Bharat HydroVision - An Underwater ROV for Dam Inspection <br> <br> <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
-
-###
-<br clear="both">
-
-###
-
-<img align="left" height="160" src="https://cdn.discordapp.com/attachments/1182638476152295545/1225790493657399366/logo1.png?ex=6622695b&is=660ff45b&hm=e7cdd7c362e863b8e89773e96fecd4878f3197871946d182e1dfeca9fc7f0a71&"  />
-
-###
-
-<p align="right"><strong>Google Solution Challenge 2024 :</strong> <br> Memento - A Marketplace for Rural Artisans <br> <br> <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
+<p align="right"><strong>Smart India Hackathon 2023 Project :</strong><br>Bharat HydroVision - An Underwater ROV for Dam Inspection <br> <br> </p>
 
 ###
 <br clear="both">
 
 ###
 
-<img align="left" height="160" src="https://cdn.discordapp.com/attachments/1182638476152295545/1225820920229396501/eyeicon3.png?ex=662285b2&is=661010b2&hm=2c0799c8fa246ecac461d9a3ab5c3becc87fbdb10ade2b575656907209d15536&"  />
+<img align="left" height="160" src="memento.png"  />
 
 ###
 
-<p align="right"><strong> EyeTalk</strong> - An Assistive Technology for ALS and Paralyzed Patients <br> <br> <a href='https://github.com/Vishaal19fl/eyetalk-website'> <img width="7" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a></p>
+<p align="right"><strong>Google Solution Challenge 2024 :</strong> <br> Memento - A Marketplace for Rural Artisans <br> <br> <!-- <a href='https://github.com/Vishaal19fl/memento-gdsc'> <img width="7" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgCL6squJi5XJkuVhF1NesTXiHbGHGdZP_bh4Ob94K-w&s" height="30"/></a> --></p>
+
+###
+<br clear="both">
+
+###
+
+<img align="left" height="160" src="eyetalk.png"  />
+
+###
+
+<p align="right"><strong> EyeTalk</strong> - An Assistive Technology for ALS and Paralyzed Patients <br> <br> </p>
 
 ###
 
